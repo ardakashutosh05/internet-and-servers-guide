@@ -8,6 +8,10 @@ This project explains how the Internet works and what servers are, designed for 
 - What are servers? (Web server, database server, file server, etc.)
 - Basic commands to explore networking on Linux
 
+### 📊 How Internet Works
+
+![Internet Flow](diagrams/client-dns-server-flow.png)
+
 ## 🛠️ How to Use
 
 - View `notes/internet_and_servers.md` for detailed concepts.
